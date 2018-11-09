@@ -1,7 +1,4 @@
 # DECLARACIÓN DE TRABAJO GRUPAL
-Unidad Académica:        Semestre 2018-II
-----------------------------------------
-
 
 | Unidad Académica  | Semestre 2018-II |
 | ------ | ------ |
