@@ -21,6 +21,7 @@ Saravia Tinco,Victor Manuel(Código:)
 Huallpa Aiquipa,Junior(Código:)
  - Elaboración del PDF(Primer Entregable)
  - Implementación del código en Python
+ 
 Flores Huamaní,Luis Angel(Código:20140341J)
  - Elaboracion del PDF(Primer Entregable)
- -Elaboracion de Gráficas en R
+ - Elaboracion de Gráficas en R
