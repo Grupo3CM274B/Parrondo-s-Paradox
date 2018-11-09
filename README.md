@@ -16,6 +16,11 @@ Delgado Baca, Ricardo Manuel (Código:)
  - Elaboración del PDF(Primer Entregable)
  - 
 Saravia Tinco,Victor Manuel(Código:)
- - Implementacion del código en Python
+ - Implementacion del código en Jupyter Notebooks
  - 
-Huallpa
+Huallpa Aiquipa,Junior(Código:)
+ - Elaboración del PDF(Primer Entregable)
+ - Implementación del código en Python
+Flores Huamaní,Luis Angel(Código:20140341J)
+ - Elaboracion del PDF(Primer Entregable)
+ -Elaboracion de Gráficas en R
