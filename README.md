@@ -1,6 +1,6 @@
 # DECLARACIÓN DE TRABAJO GRUPAL
 
-| Unidad Académica  | Semestre 2018-II |
+|  Semestre  |  2018-II |
 | ------ | ------ |
 | Curso | Introducción a la Estadística y Probabilidades |
 | Profesor | César Lara Ávila |
